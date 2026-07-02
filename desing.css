@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-html, body{
+html{
    display: flex;
     justify-content: center;
     align-items: center;
@@ -20,6 +20,8 @@ html, body{
     align-items: center;
    gap: 20px;
    flex-direction: column;
+    justify-content: center;
+
 }
 #box1{
     width: 100%;
